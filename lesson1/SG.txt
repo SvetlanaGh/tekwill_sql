@@ -1,0 +1,20 @@
+Contacs,
+
+Slack setup, 
+
+GitHub Repo, 
+
+GitBash, 
+
+Working Folder structure, 
+
+Docs shareing
+git comm
+/e/projects/tekwill_sql/src/tekwill_sql (master)
+$ git add lesson1/
+
+/e/projects/tekwill_sql/src/tekwill_sql (master)
+$ git commit -am "primult meu commit"
+
+/e/projects/tekwill_sql/src/tekwill_sql (master)
+$ git push
